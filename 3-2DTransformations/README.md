@@ -1,5 +1,5 @@
 # PRACTICAL 3
-**Write a program to implement mid-point circle drawing algorithm.**
+**Write a program to apply various 2D transformations on a 2D object.**
 
 ## OUTPUT
 `Figure`
