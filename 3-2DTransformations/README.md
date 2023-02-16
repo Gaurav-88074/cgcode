@@ -2,11 +2,6 @@
 **Write a program to implement mid-point circle drawing algorithm.**
 
 ## OUTPUT
-`Compilation`
-<p align="center">
-<img src="https://user-images.githubusercontent.com/68191677/219386379-49a1ed13-d48a-4545-b06f-82f2765d99c4.png"  />
-</p>
-
 `Figure`
 <p align="center">
 <img src="https://user-images.githubusercontent.com/68191677/219398287-ded309b6-15a0-4924-8366-0e0cacbc935b.png"  />
