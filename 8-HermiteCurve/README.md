@@ -1,5 +1,5 @@
-# PRACTICAL 5
-**Write a program to implement 2D Transformations.**
+# PRACTICAL 8
+**Write a program to implement Hermite Curve.**
 
 ## OUTPUT
 `Compilation`

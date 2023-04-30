@@ -1,5 +1,5 @@
-# PRACTICAL 5
-**Write a program to implement 2D Transformations.**
+# PRACTICAL 7
+**Write a program to implement Bezier Curve.**
 
 ## OUTPUT
 `Compilation`
