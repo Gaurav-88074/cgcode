@@ -1,4 +1,4 @@
-# PRACTICAL 5
+# PRACTICAL 6
 **Write a program to implement 3D Transformations.**
 
 ## OUTPUT
